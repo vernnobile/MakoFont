@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="772"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="631" y="205" type="line"/>
+      <point x="632.34" y="191.6" name="inserted"/>
+      <point x="633.99" y="176.75"/>
+      <point x="636" y="160" type="curve"/>
+      <point x="638.68" y="131.86"/>
+      <point x="641.0" y="94.22"/>
+      <point x="641" y="50" type="curve"/>
+      <point x="641.0" y="-101.42"/>
+      <point x="583.7" y="-185.94"/>
+      <point x="443" y="-198" type="curve"/>
+      <point x="443.0" y="-196.66"/>
+      <point x="438.02" y="-181.74"/>
+      <point x="434.0" y="-167.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="429.98" y="-152.26"/>
+      <point x="425.0" y="-137.34"/>
+      <point x="425" y="-136" type="curve"/>
+      <point x="477.26" y="-127.96"/>
+      <point x="506.58" y="-111.78"/>
+      <point x="524.0" y="-89.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="541.42" y="-66.22"/>
+      <point x="545.0" y="-37.84"/>
+      <point x="545" y="-3" type="curve"/>
+      <point x="426" y="-3" type="line"/>
+      <point x="426" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="205" type="line"/>
+      <point x="340.01" y="191.6" name="inserted"/>
+      <point x="341.99" y="176.75"/>
+      <point x="344" y="160" type="curve"/>
+      <point x="346.68" y="131.86"/>
+      <point x="350.0" y="94.22"/>
+      <point x="350" y="50" type="curve"/>
+      <point x="350.0" y="-101.42"/>
+      <point x="291.7" y="-185.94"/>
+      <point x="151" y="-198" type="curve"/>
+      <point x="151.0" y="-196.66"/>
+      <point x="146.02" y="-181.74"/>
+      <point x="142.0" y="-167.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="137.98" y="-152.26"/>
+      <point x="133.0" y="-137.34"/>
+      <point x="133" y="-136" type="curve"/>
+      <point x="185.26" y="-127.96"/>
+      <point x="214.75" y="-111.78"/>
+      <point x="231.5" y="-89.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="248.25" y="-66.22"/>
+      <point x="253.0" y="-37.84"/>
+      <point x="253" y="-3" type="curve"/>
+      <point x="133" y="-3" type="line"/>
+      <point x="133" y="195" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

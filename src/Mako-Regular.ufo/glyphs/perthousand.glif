@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="2025"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="1073" y="1481" type="line"/>
+      <point x="1186" y="1414" type="line"/>
+      <point x="305" y="-87" type="line"/>
+      <point x="196" y="-21" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="1098" type="curve"/>
+      <point x="84.0" y="1211.9"/>
+      <point x="111.76" y="1295.55"/>
+      <point x="160.0" y="1352.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="208.24" y="1409.45"/>
+      <point x="274.28" y="1437.0"/>
+      <point x="352" y="1437" type="curve"/>
+      <point x="432.4" y="1437.0"/>
+      <point x="498.93" y="1409.45"/>
+      <point x="546.5" y="1352.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="594.07" y="1295.55"/>
+      <point x="621.0" y="1211.9"/>
+      <point x="621" y="1098" type="curve"/>
+      <point x="621.0" y="984.1"/>
+      <point x="593.9" y="900.28"/>
+      <point x="547.0" y="844.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="500.1" y="787.72"/>
+      <point x="433.74" y="760.0"/>
+      <point x="352" y="760" type="curve"/>
+      <point x="272.94" y="760.0"/>
+      <point x="206.07" y="787.72"/>
+      <point x="158.5" y="844.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="110.93" y="900.28"/>
+      <point x="84.0" y="984.1"/>
+    </contour>
+    <contour>
+      <point x="498" y="1098" type="curve"/>
+      <point x="498.0" y="1171.7"/>
+      <point x="487.95" y="1229.63"/>
+      <point x="464.5" y="1270.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="441.05" y="1311.37"/>
+      <point x="405.6" y="1334.0"/>
+      <point x="352" y="1334" type="curve"/>
+      <point x="299.74" y="1334.0"/>
+      <point x="262.95" y="1311.37"/>
+      <point x="239.5" y="1270.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="216.05" y="1229.63"/>
+      <point x="206.0" y="1171.7"/>
+      <point x="206" y="1098" type="curve"/>
+      <point x="206.0" y="1025.64"/>
+      <point x="216.05" y="967.37"/>
+      <point x="239.5" y="926.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="262.95" y="885.63"/>
+      <point x="299.74" y="863.0"/>
+      <point x="352" y="863" type="curve"/>
+      <point x="457.86" y="863.0"/>
+      <point x="498.0" y="951.94"/>
+    </contour>
+    <contour>
+      <point x="1423" y="310" type="curve"/>
+      <point x="1423.0" y="423.9"/>
+      <point x="1448.93" y="507.72"/>
+      <point x="1496.5" y="564.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="1544.07" y="620.28"/>
+      <point x="1609.6" y="648.0"/>
+      <point x="1690" y="648" type="curve"/>
+      <point x="1770.4" y="648.0"/>
+      <point x="1837.1" y="620.28"/>
+      <point x="1884.0" y="564.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="1930.9" y="507.72"/>
+      <point x="1958.0" y="423.9"/>
+      <point x="1958" y="310" type="curve"/>
+      <point x="1958.0" y="196.1"/>
+      <point x="1931.9" y="112.45"/>
+      <point x="1885.0" y="55.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1838.1" y="-1.45"/>
+      <point x="1771.74" y="-29.0"/>
+      <point x="1690" y="-29" type="curve"/>
+      <point x="1610.94" y="-29.0"/>
+      <point x="1544.9" y="-1.45"/>
+      <point x="1498.0" y="55.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1451.1" y="112.45"/>
+      <point x="1423.0" y="196.1"/>
+    </contour>
+    <contour>
+      <point x="1835" y="310" type="curve"/>
+      <point x="1835.0" y="382.36"/>
+      <point x="1825.95" y="440.63"/>
+      <point x="1802.5" y="481.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1779.05" y="522.37"/>
+      <point x="1743.6" y="545.0"/>
+      <point x="1690" y="545" type="curve"/>
+      <point x="1637.74" y="545.0"/>
+      <point x="1600.95" y="522.37"/>
+      <point x="1577.5" y="481.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1554.05" y="440.63"/>
+      <point x="1544.0" y="382.36"/>
+      <point x="1544" y="310" type="curve"/>
+      <point x="1544.0" y="236.3"/>
+      <point x="1554.05" y="178.37"/>
+      <point x="1577.5" y="137.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1600.95" y="96.63"/>
+      <point x="1637.74" y="74.0"/>
+      <point x="1690" y="74" type="curve"/>
+      <point x="1743.6" y="74.0"/>
+      <point x="1779.05" y="96.63"/>
+      <point x="1802.5" y="137.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1825.95" y="178.37"/>
+      <point x="1835.0" y="236.3"/>
+    </contour>
+    <contour>
+      <point x="754" y="310" type="curve"/>
+      <point x="754.0" y="423.9"/>
+      <point x="781.1" y="507.72"/>
+      <point x="828.0" y="564.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="874.9" y="620.28"/>
+      <point x="941.6" y="648.0"/>
+      <point x="1022" y="648" type="curve"/>
+      <point x="1102.4" y="648.0"/>
+      <point x="1168.1" y="620.28"/>
+      <point x="1215.0" y="564.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="1261.9" y="507.72"/>
+      <point x="1289.0" y="423.9"/>
+      <point x="1289" y="310" type="curve"/>
+      <point x="1289.0" y="196.1"/>
+      <point x="1262.9" y="112.45"/>
+      <point x="1216.0" y="55.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1169.1" y="-1.45"/>
+      <point x="1102.4" y="-29.0"/>
+      <point x="1022" y="-29" type="curve"/>
+      <point x="942.94" y="-29.0"/>
+      <point x="877.07" y="-1.45"/>
+      <point x="829.5" y="55.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="781.93" y="112.45"/>
+      <point x="754.0" y="196.1"/>
+    </contour>
+    <contour>
+      <point x="1167" y="310" type="curve"/>
+      <point x="1167.0" y="382.36"/>
+      <point x="1156.78" y="440.63"/>
+      <point x="1134.0" y="481.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1111.22" y="522.37"/>
+      <point x="1075.6" y="545.0"/>
+      <point x="1022" y="545" type="curve"/>
+      <point x="968.4" y="545.0"/>
+      <point x="932.95" y="522.37"/>
+      <point x="909.5" y="481.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="886.05" y="440.63"/>
+      <point x="876.0" y="382.36"/>
+      <point x="876" y="310" type="curve"/>
+      <point x="876.0" y="236.3"/>
+      <point x="886.05" y="178.37"/>
+      <point x="909.5" y="137.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="932.95" y="96.63"/>
+      <point x="968.4" y="74.0"/>
+      <point x="1022" y="74" type="curve"/>
+      <point x="1127.86" y="74.0"/>
+      <point x="1167.0" y="162.6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="1061"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="125" y="189" type="line"/>
+      <point x="142.42" y="184.98"/>
+      <point x="192.51" y="171.57"/>
+      <point x="257.5" y="157.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="322.49" y="143.43"/>
+      <point x="402.62" y="132.0"/>
+      <point x="479" y="132" type="curve"/>
+      <point x="556.72" y="132.0"/>
+      <point x="620.78" y="151.31"/>
+      <point x="665.0" y="189.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="709.22" y="227.69"/>
+      <point x="734.0" y="285.26"/>
+      <point x="734" y="367" type="curve"/>
+      <point x="734.0" y="451.42"/>
+      <point x="709.98" y="516.61"/>
+      <point x="647.0" y="561.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="584.02" y="606.39"/>
+      <point x="484.1" y="628.0"/>
+      <point x="330" y="628" type="curve"/>
+      <point x="330" y="789" type="line"/>
+      <point x="472.04" y="789.0"/>
+      <point x="564.55" y="801.33"/>
+      <point x="621.5" y="835.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="678.45" y="869.67"/>
+      <point x="700.0" y="925.24"/>
+      <point x="700" y="1011" type="curve"/>
+      <point x="700.0" y="1090.06"/>
+      <point x="673.39" y="1141.5"/>
+      <point x="628.5" y="1175.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="583.61" y="1208.5"/>
+      <point x="521.68" y="1221.0"/>
+      <point x="452" y="1221" type="curve"/>
+      <point x="389.02" y="1221.0"/>
+      <point x="314.15" y="1211.06"/>
+      <point x="250.5" y="1199.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="186.85" y="1186.94"/>
+      <point x="133.76" y="1172.36"/>
+      <point x="115" y="1167" type="curve"/>
+      <point x="140" y="1320" type="line"/>
+      <point x="161.44" y="1326.7"/>
+      <point x="203.06" y="1338.28"/>
+      <point x="258.0" y="1349.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="312.94" y="1359.72"/>
+      <point x="379.64" y="1370.0"/>
+      <point x="452" y="1370" type="curve"/>
+      <point x="586.0" y="1370.0"/>
+      <point x="694.62" y="1344.28"/>
+      <point x="771.0" y="1288.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="847.38" y="1231.72"/>
+      <point x="889.0" y="1147.92"/>
+      <point x="889" y="1030" type="curve"/>
+      <point x="889.0" y="957.64"/>
+      <point x="873.78" y="902.22"/>
+      <point x="851.0" y="858.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="828.22" y="813.78"/>
+      <point x="797.48" y="785.12"/>
+      <point x="768" y="761" type="curve"/>
+      <point x="732.49" y="736.21" name="inserted"/>
+      <point x="692.89" y="720.04"/>
+      <point x="648" y="712" type="curve"/>
+      <point x="702.27" y="707.98" name="inserted"/>
+      <point x="749.79" y="694.12"/>
+      <point x="792" y="670" type="curve"/>
+      <point x="828.18" y="645.88"/>
+      <point x="864.2" y="616.07"/>
+      <point x="891.0" y="568.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="917.8" y="520.93"/>
+      <point x="936.0" y="457.74"/>
+      <point x="936" y="376" type="curve"/>
+      <point x="936.0" y="217.88"/>
+      <point x="885.25" y="119.64"/>
+      <point x="801.5" y="58.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="717.75" y="-3.64"/>
+      <point x="603.3" y="-24.0"/>
+      <point x="476" y="-24" type="curve"/>
+      <point x="392.92" y="-24.0"/>
+      <point x="307.85" y="-10.74"/>
+      <point x="237.5" y="4.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="167.15" y="18.74"/>
+      <point x="112.44" y="34.64"/>
+      <point x="91" y="40" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

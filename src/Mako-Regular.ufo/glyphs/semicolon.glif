@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="514"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="357" y="805" type="line"/>
+      <point x="357" y="591" type="line"/>
+      <point x="152" y="591" type="line"/>
+      <point x="152" y="805" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="189" type="line"/>
+      <point x="355" y="195" type="line"/>
+      <point x="357.01" y="181.6" name="inserted"/>
+      <point x="358.99" y="166.75"/>
+      <point x="361" y="150" type="curve"/>
+      <point x="363.68" y="121.86"/>
+      <point x="367.0" y="84.54"/>
+      <point x="367" y="43" type="curve"/>
+      <point x="367.0" y="-19.98"/>
+      <point x="355.97" y="-71.95"/>
+      <point x="328.5" y="-115.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="301.03" y="-159.05"/>
+      <point x="256.34" y="-191.56"/>
+      <point x="188" y="-213" type="curve"/>
+      <point x="160" y="-133" type="line"/>
+      <point x="221.64" y="-124.96"/>
+      <point x="250.0" y="-71.02"/>
+      <point x="250" y="0" type="curve"/>
+      <point x="152" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

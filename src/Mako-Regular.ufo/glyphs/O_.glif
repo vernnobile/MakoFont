@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="1">
+  <advance width="1399"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="311" y="722" type="curve"/>
+      <point x="311.0" y="533.06"/>
+      <point x="338.02" y="386.01"/>
+      <point x="401.0" y="283.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="463.98" y="180.99"/>
+      <point x="558.64" y="127.0"/>
+      <point x="698" y="127" type="curve"/>
+      <point x="838.7" y="127.0"/>
+      <point x="934.02" y="180.99"/>
+      <point x="997.0" y="283.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1059.98" y="386.01"/>
+      <point x="1087.0" y="533.06"/>
+      <point x="1087" y="722" type="curve"/>
+      <point x="1087.0" y="909.6"/>
+      <point x="1059.98" y="1056.16"/>
+      <point x="997.0" y="1158.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="934.02" y="1259.84"/>
+      <point x="838.7" y="1314.0"/>
+      <point x="698" y="1314" type="curve"/>
+      <point x="559.98" y="1314.0"/>
+      <point x="463.81" y="1259.84"/>
+      <point x="401.5" y="1158.0" type="curve" smooth="yes" name="inserted"/>
+      <point x="339.19" y="1056.16"/>
+      <point x="311.0" y="909.6"/>
+    </contour>
+    <contour>
+      <point x="120" y="722" type="curve"/>
+      <point x="120.0" y="1225.84"/>
+      <point x="320.12" y="1464.0"/>
+      <point x="698" y="1464" type="curve"/>
+      <point x="1078.56" y="1464.0"/>
+      <point x="1279.0" y="1225.84"/>
+      <point x="1279" y="722" type="curve"/>
+      <point x="1279.0" y="212.8"/>
+      <point x="1078.56" y="-24.0"/>
+      <point x="698" y="-24" type="curve"/>
+      <point x="509.06" y="-24.0"/>
+      <point x="365.82" y="35.55"/>
+      <point x="268.0" y="159.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="170.18" y="283.45"/>
+      <point x="120.0" y="467.4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="591"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="526" y="-428" type="line"/>
+      <point x="515.28" y="-435.37" name="inserted"/>
+      <point x="502.08" y="-441.97"/>
+      <point x="486" y="-448" type="curve"/>
+      <point x="459.2" y="-458.72"/>
+      <point x="420.28" y="-468.0"/>
+      <point x="364" y="-468" type="curve"/>
+      <point x="264.84" y="-468.0"/>
+      <point x="195.9" y="-438.73"/>
+      <point x="149.0" y="-392.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="102.1" y="-346.27"/>
+      <point x="81.0" y="-285.0"/>
+      <point x="81" y="-218" type="curve"/>
+      <point x="81.0" y="-129.56"/>
+      <point x="118.89" y="-66.07"/>
+      <point x="174.5" y="-18.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="230.11" y="29.07"/>
+      <point x="301.98" y="57.58"/>
+      <point x="373" y="75" type="curve"/>
+      <point x="373" y="12" type="line"/>
+      <point x="260.44" y="-30.88"/>
+      <point x="202.0" y="-104.56"/>
+      <point x="202" y="-193" type="curve"/>
+      <point x="202.0" y="-305.56"/>
+      <point x="256.42" y="-351.0"/>
+      <point x="373" y="-351" type="curve"/>
+      <point x="422.58" y="-351.0"/>
+      <point x="462.18" y="-340.72"/>
+      <point x="493" y="-330" type="curve"/>
+      <point x="510.42" y="-323.97" name="inserted"/>
+      <point x="525.93" y="-317.04"/>
+      <point x="540" y="-309" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="1">
+  <advance width="441"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="117" y="1537" type="line"/>
+      <point x="345" y="1553" type="line"/>
+      <point x="347.01" y="1535.58" name="inserted"/>
+      <point x="348.99" y="1517.76"/>
+      <point x="351" y="1499" type="curve"/>
+      <point x="353.68" y="1466.84"/>
+      <point x="357.0" y="1423.88"/>
+      <point x="357" y="1381" type="curve"/>
+      <point x="357.0" y="1234.94"/>
+      <point x="295.44" y="1150.9"/>
+      <point x="140" y="1104" type="curve"/>
+      <point x="112" y="1185" type="line"/>
+      <point x="158.9" y="1191.7"/>
+      <point x="193.22" y="1212.03"/>
+      <point x="216.0" y="1239.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="238.78" y="1266.97"/>
+      <point x="250.0" y="1300.84"/>
+      <point x="250" y="1333" type="curve"/>
+      <point x="117" y="1333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
